@@ -1,0 +1,3 @@
+10000001,Fan,200,0.1,false,0.0
+10000001,Refrigerator - Freezer 21 cu. ft.- Side by Side,783,1.0,true,0.25
+10000001,Fax Machine,10,1.0,false,0.0

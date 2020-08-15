@@ -1,0 +1,4 @@
+1.	instead of having 2 catch() in public static void main, put the catch(RuntimeException re) in the start method.
+
+2.	A) a
+	B) d
